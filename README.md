@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dhruba, passionate software engineer
-- 👀 I’m interested in Spark, Scala,Python, Kafka-
-🌱 I’m currently learning Security on cloud data
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dhruba, passionate Azure Data Architect
+- 👀 I’m interested in Spark, Scala, Python, Kafka, Databricks, Pyspark, Azure Synapse & other Azure Stack.
+🌱 I’m currently solving complex Data engineering problems on cloud data.
+- 💞️ I’m open to join any big data engineering challanging environment.
+- 📫 How to reach me, my email- dhruba1008@gmail.com
 
 <!---
 dhruba895/dhruba895 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
